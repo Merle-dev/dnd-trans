@@ -1,0 +1,16 @@
+.dices {
+  display: flex;
+  position: absolute;
+  bottom: 0.5vh;
+}
+
+.dicebutton {
+  margin-right: 0.5vw;
+}
+
+.dicebuttons {
+  border-radius: 10vh;
+  background: black;
+  border: 0;
+  margin-left: 0.5vw;
+}
